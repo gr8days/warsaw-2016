@@ -10,6 +10,6 @@
 
 .constant('SPONSORS', [{},{},{name:'Organizers',shortName:'Organizer',class:'organizer',carousel:false,columns:12,sponsors:[{name:'SoftwareMill',url:'http://softwaremill.com/',image:'images/eu/sponsors/gennemtaenktit.png',image2:'images/eu/sponsors/gennemtaenktit_300.png',html:'views/eu/sponsors/_gennemtaenktit.html'}]},{name:'Hosting Sponsors',shortName:'Hosting',class:'hosting',carousel:false,columns:12,sponsors:[{name:'Campus Warsaw',url:'https://www.campus.co/warsaw/en',image:'images/eu/sponsors/easyspeedy.png',image2:'images/eu/sponsors/easyspeedy_300.png',html:'views/eu/sponsors/_easyspeedy.html'}]}])
 
-.constant('CREW', {crew:[{name:'Tomasz Szymański',employer:'SoftwareMill',link:'http://softwaremill.com',image:'soeren.png',twitter:'sbglasius',email:'sbglasius@gr8conf.org',title:'Organizer and co-Founder'},{name:'Marcin Grzejszczak',employer:'Springsource',link:'https://spring.io/',image:'soeren.png',twitter:'sbglasius',email:'sbglasius@gr8conf.org',title:'Organizer and co-Founder'}]})
+.constant('CREW', {crew:[{name:'Tomasz Szymański',employer:'SoftwareMill',link:'http://softwaremill.com',image:'szimano.jpg',twitter:'szimano',email:'tom@softwaremill.com',title:'Organizer and co-Founder'},{name:'Marcin Grzejszczak',employer:'Springsource',link:'https://spring.io/',image:'marcin.jpg',twitter:'marcingrzejszczak',email:'marcin@grzejszczak.pl',title:'Organizer and co-Founder'}]})
 
 ;
